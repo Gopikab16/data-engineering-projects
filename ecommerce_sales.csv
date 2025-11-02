@@ -1,0 +1,6 @@
+id,product,price,quantity,category
+1,Laptop,55000,2.0,Electronics
+2,Mouse,500,5.0,Accessories
+3,Keyboard,800,3.0,Accessories
+4,Laptop,55000,,Electronics
+5,Monitor,12000,1.0,Electronics

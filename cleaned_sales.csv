@@ -1,0 +1,11 @@
+order_id,customer_name,product,category,price,quantity,order_date,total_sales
+1001,Rahul,Laptop,Electronics,55000.0,1.0,2024-01-31,55000.0
+1002,Priya,Mouse,Accessories,500.0,5.0,2024-02-29,2500.0
+1003,Karan,Keyboard,Accessories,800.0,3.0,2024-03-31,2400.0
+1004,Asha,Monitor,Electronics,12000.0,2.0,2024-04-30,24000.0
+1005,Vikram,Headphones,Audio,2000.0,1.0,2024-05-31,2000.0
+1006,Rahul,Laptop,Electronics,17262.5,4.0,2024-06-30,69050.0
+1007,Priya,Mouse,Accessories,800.0,3.0,2024-07-31,2400.0
+1008,Karan,Keyboard,Accessories,12000.0,1.0,2024-08-31,12000.0
+1009,Asha,Monitor,Electronics,17262.5,2.0,2024-09-30,34525.0
+1010,Vikram,Headphones,Audio,55000.0,1.0,2024-10-31,55000.0
